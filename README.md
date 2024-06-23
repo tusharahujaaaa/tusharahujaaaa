@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end developer from India.</h3>
 
 <img align="right" alt="Coding" width="400"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebcoder.co.in%2Fweb-development%2F&psig=AOvVaw0OB_AxAEj40SkYFVvcs3fO&ust=1719248598284000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDWwKGa8oYDFQAAAAAdAAAAABAE">
+  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 - 🔭 I’m currently learning **Angular.js, React.js, Node.js.**
 
