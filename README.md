@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400"
   src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-- 🔭 I’m currently learning **Angular.js, React.js, Node.js.**
+- 🔭 I’m currently learning **Angular.js, React.js, Node.js, Express.js, MongoDB.**
 
 - 😄 My areas of interest are **Web development, App Development, and DS algo.**
 
-- 💬 Ask me about **C, C++, Angular.**
+- 💬 Ask me about **C, C++, Angular, Node.js, Express.js, React.**
 
 - 📄 Know about my experiences
 [https://drive.google.com/file/d/1WehtQ_dXkbjskxE7VagKubYXK3c0zD4p/view?usp=sharing](https://drive.google.com/file/d/1WehtQ_dXkbjskxE7VagKubYXK3c0zD4p/view?usp=sharing)
