@@ -12,7 +12,7 @@
 - 💬 Ask me about **C, C++, Angular, Node.js, Express.js, React.**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1WehtQ_dXkbjskxE7VagKubYXK3c0zD4p/view?usp=sharing](https://drive.google.com/file/d/1WehtQ_dXkbjskxE7VagKubYXK3c0zD4p/view?usp=sharing)
+[https://drive.google.com/file/d/1mk5XIlvY3A_Ab6PRvvek4OfBQqUvdMaL/view?usp=drive_link](https://drive.google.com/file/d/1mk5XIlvY3A_Ab6PRvvek4OfBQqUvdMaL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
