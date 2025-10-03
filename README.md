@@ -12,7 +12,7 @@
 - 💬 Ask me about **C, C++, Angular, Node.js, Express.js, React.**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1mk5XIlvY3A_Ab6PRvvek4OfBQqUvdMaL/view?usp=drive_link](https://drive.google.com/file/d/1mk5XIlvY3A_Ab6PRvvek4OfBQqUvdMaL/view?usp=drive_link)
+[My resume](https://drive.google.com/file/d/1BJ9IZ5ycQtlEhbjaoB2Pd8QfMK5vwrIY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -21,10 +21,10 @@
       width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>
   <a href="https://www.linkedin.com/in/ahuja-tushar/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="yash7060" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/tushar___ahujaa/" target="blank"><img align="center"
+      alt="ahuja-tushar" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/varun___ahujaa/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="yash__saini_" height="30" width="40" /></a>
+      alt="varun___ahujaa" height="30" width="40" /></a>
       </p>
 
 <h3 align="left">Languages and Tools:</h3>
