@@ -12,7 +12,7 @@
 - 💬 Ask me about **C, C++, Angular, Node.js, Express.js, React.**
 
 - 📄 Know about my experiences
-[My resume](https://drive.google.com/file/d/1BJ9IZ5ycQtlEhbjaoB2Pd8QfMK5vwrIY/view?usp=drive_link)
+[My resume](https://drive.google.com/file/d/1hq4AkOgFU4KzhmgUXIkXtoj_bDWPYfOc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
